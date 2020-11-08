@@ -1,8 +1,7 @@
 # Math_Arranger
 Python Certification Code Challenge Problem
 
-This code was developed as part of a Python Certification challenge problem. Below were the rubrics of the challenge problem, including functionality requirements and test rules.
-
+This code was developed as part of a Python Certification challenge problem. Below were the rubrics of the challenge problem, including functionality requirements and test rules. A full link to the rest repository on repl.it with test files included can be found here: https://repl.it/@RichardRNVSG/FCC-Python-Arithmetic-Arranger#.replit
 Assignment
 
 Create a function that receives a list of strings that are arithmetic problems and returns the problems arranged vertically and side-by-side. The function should optionally take a second argument. When the second argument is set to True, the answers should be displayed.
